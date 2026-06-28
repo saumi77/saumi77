@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 
 ## 🧬 About Me
 
-I am a PhD Candidate at Murdoch University with 10+ years of experience as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI). My research spans conventional and molecular plant breeding, abiotic/biotic stress tolerance, and crop improvement — with a focus on maize, millet, sorghum, and potato. I hold an MSc from Wageningen University (Netherlands) and have published 15+ peer-reviewed articles.
+I am a PhD Candidate at Murdoch University, Australia, with over 10 years of research experience as a Scientific Officer at the Bangladesh Agricultural Research Institute (BARI). My expertise encompasses conventional and molecular plant breeding, crop improvement, and the development of abiotic and biotic stress tolerance in major crops, including maize, millet, sorghum, and potato.
+
+I hold an MSc degree from Wageningen University, the Netherlands, and have authored more than 15 peer-reviewed publications. My current doctoral research focuses on the genetic basis of disease resistance in narrow-leafed lupin, with particular emphasis on plant–pathogen interactions, resistance genetics, and sustainable crop improvement.
+
+My research interests include plant–microbe interactions, plant genomics, disease resistance, and the application of molecular and genomic approaches to understand host–pathogen relationships and develop resilient crop varieties for sustainable agriculture.
 
 ---
 
@@ -131,7 +135,7 @@ I am a PhD Candidate at Murdoch University with 10+ years of experience as a Sci
 
 ## 📬 Get in Touch
 
-- 📧 Email: [saumi77@gmail.com](mailto:saumi77@gmail.com)
+- 📧 Email:[sumaiya.Omy@murdoch.edu.au](mailto:sumaiya.Omy@murdoch.edu.au) [saumi77@gmail.com](mailto:saumi77@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/sumaiya-haque-omy](https://linkedin.com/in/sumaiya-haque-omy)
 - 🧪 ResearchGate: [researchgate.net/profile/Sumaiya-Haque-Omy](https://researchgate.net/profile/Sumaiya-Haque-Omy)
 
