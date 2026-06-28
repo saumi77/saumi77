@@ -40,13 +40,14 @@ I am a PhD Candidate at Murdoch University with 10+ years of experience as a Sci
 ---
 
 ## 🔬 Research Interests
+- 🌱Plant Pathology
+-🧬 QTL Mapping
+-🔬 Disease Phenotyping
+-🌱🦠 Plant–Microbe Interactions
+-📊 Data Analysis in R
+-🌾 Crop Improvement
+-🧪 Molecular Plant Science
 
-- 🌿 **Abiotic & Biotic Stress Tolerance**
-- 🌿 **Molecular Marker-Assisted Breeding**
-- 🌿 **Plant–Microbe Interactions**
-- 🌿 **Genomics & Bioinformatics**
-- 🌿 **Speed Breeding & Variety Development**
-- 🌿 **Agro-Geospatial Analysis**
 
 ---
 
